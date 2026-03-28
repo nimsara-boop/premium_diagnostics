@@ -1,0 +1,65 @@
+test_name,test_price,test_code,test_cat,sample_type,preparation_info
+Fasting Blood Sugar,150,1558-6,Chemistry,Blood,Fasting 8-12 hours prior to blood draw
+ALT (SGPT),600,1742-6,Chemistry,Blood,No fasting required. Blood draw.
+AST (SGOT),600,1920-8,Chemistry,Blood,No fasting required. Blood draw.
+S Creatinine Enzymatic,700,2160-0,Chemistry,Blood,No fasting required. Blood draw.
+Albumin,650,1751-7,Chemistry,Blood,No fasting required. Blood draw.
+Urine Micro Albumin,1300,14959-1,Chemistry,Urine,First-morning urine sample is preferred.
+Alkaline Phosphatase,750,6768-6,Chemistry,Blood,No fasting required. Blood draw.
+Direct Bilirubin,800,1968-7,Chemistry,Blood,Fasting preferred. Blood draw.
+Total Bilirubin And Direct Bilirubin,1600,1975-2,Chemistry,Blood,Fasting preferred. Blood draw.
+Bleeding Time,300,6576-7,Hematology,Blood,Onsite test. Performed by a technician.
+Clotting Time,300,13056-7,Hematology,Blood,Onsite test. Performed by a technician.
+Bleeding Time And Clotting Time,600,CUSTOM-1,Hematology,Blood,Onsite test. Performed by a technician.
+Blood Picture,150,58410-2,Hematology,Blood,Blood draw.
+Blood Picture And FBC,1900,CUSTOM-2,Hematology,Blood,Blood draw.
+Blood Sugar Series,900,CUSTOM-3,Chemistry,Blood,Multiple draws over time. Fasting required for baseline.
+CRP,800,1988-5,Immunology,Blood,No fasting required. Blood draw.
+Cholesterol HDL,300,2085-9,Chemistry,Blood,Fasting 9-12 hours required for accurate results.
+Cholesterol LDL,1000,13457-7,Chemistry,Blood,Fasting 9-12 hours required for accurate results.
+Cholesterol Total,300,2093-3,Chemistry,Blood,Fasting 9-12 hours required for accurate results.
+Creatinine Enzymatic,700,2160-0,Chemistry,Blood,No fasting required. Blood draw.
+Dengue Antigen,1000,72891-4,Infectious Disease,Blood,No fasting required. Blood draw.
+Dengue Antibody IGM And IGG,1200,41631-3,Infectious Disease,Blood,No fasting required. Blood draw.
+ESR,300,4537-7,Hematology,Blood,Blood draw.
+Creatinine EGFR,700,33914-3,Chemistry,Blood,No fasting required. Blood draw.
+FT4,1900,3026-3,Endocrinology,Blood,No fasting required. Blood draw.
+FT3,1990,3053-7,Endocrinology,Blood,No fasting required. Blood draw.
+GGT,700,2324-2,Chemistry,Blood,No fasting required. Blood draw.
+HBA1C,1500,4548-4,Chemistry,Blood,No fasting required. Blood draw.
+Hemoglobin,400,718-7,Hematology,Blood,Blood draw.
+Lipid Profile,1200,24331-1,Chemistry,Blood,Fasting 9-12 hours required.
+Liver Profile,4050,CUSTOM-4,Chemistry,Blood,Fasting preferred. Blood draw.
+Renal Profile,3000,CUSTOM-5,Chemistry,Blood,No fasting required. Blood draw.
+Total Protein,1000,2885-2,Chemistry,Blood,No fasting required. Blood draw.
+SFA,2300,16128-3,Chemistry,Semen,Abstinence for 2-5 days prior to collection. Onsite collection preferred.
+Urine Sodium,1200,2955-5,Chemistry,Urine,24-hour urine collection with special container.
+Stool Full Report,400,5790-2,Microbiology,Stool,Fresh sample collected in a sterile container.
+TSH,1700,3016-4,Endocrinology,Blood,No fasting required. Blood draw.
+Total Calcium,900,17861-6,Chemistry,Blood,No fasting required. Blood draw.
+Tryglyceride,400,2571-8,Chemistry,Blood,Fasting 9-12 hours required.
+High Sensitive Trop I,2000,89577-1,Cardiology,Blood,No fasting required. Blood draw.
+Uric Acid,650,3084-1,Chemistry,Blood,No fasting required. Blood draw.
+Urine HCG,400,2118-5,Endocrinology,Urine,First-morning urine is most concentrated.
+Urobilinogen,400,20405-7,Chemistry,Urine,Fresh random urine sample.
+URO Bile,350,5775-3,Chemistry,Urine,Fresh random urine sample.
+Urine For Electrolyte,900,CUSTOM-6,Chemistry,Urine,24-hour urine collection with special container.
+Urine Full Report,350,5811-5,Urinalysis,Urine,Clean-catch midstream urine sample.
+Urine Ketone Bodies,350,2514-8,Urinalysis,Urine,Random urine sample.
+Urine Sugar,350,25428-4,Urinalysis,Urine,Random urine sample.
+Vitamin D,5000,62238-4,Endocrinology,Blood,No fasting required. Blood draw.
+WBC DC,400,804-5,Hematology,Blood,Blood draw.
+Blood Film For Microfilaria,200,22471-2,Infectious Disease,Blood,Blood draw. Sample taken at night may be requested.
+HIV,2000,75622-1,Infectious Disease,Blood,No fasting required. Blood draw.
+VDRL,740,20507-0,Infectious Disease,Blood,No fasting required. Blood draw.
+Hepataties Antigen,1100,5195-3,Infectious Disease,Blood,No fasting required. Blood draw.
+SAT,1090,5902-2,Hematology,Blood,Blood draw.
+S Electrolyte,1100,CUSTOM-7,Chemistry,Blood,No fasting required. Blood draw.
+Ferritin,2762,2276-4,Hematology,Blood,No fasting required. Blood draw.
+Urine Culture,1300,630-4,Microbiology,Urine,Clean-catch midstream urine sample in a sterile container.
+FBC,400,58453-2,Hematology,Blood,Blood draw.
+Total PSA,6000,2857-1,Oncology,Blood,No ejaculation for 48 hours prior. Blood draw.
+RF Rheumatoid Factor Slide Method,650,30522-7,Immunology,Blood,No fasting required. Blood draw.
+Blood Group And RH,600,883-9,Immunohematology,Blood,Blood draw.
+UPCR,1400,34366-5,Chemistry,Urine,First-morning urine sample is preferred.
+Vitamin D,6000,62238-4,Endocrinology,Blood,No fasting required. Blood draw.
